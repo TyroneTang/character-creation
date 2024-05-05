@@ -1,6 +1,6 @@
 .buttonRow {
     /* height: 100px; */
-    overflow-x: scroll;
+    overflow: auto;
     white-space: nowrap;
     padding-top: 16px;
     padding-bottom: 16px;
