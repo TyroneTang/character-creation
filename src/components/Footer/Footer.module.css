@@ -1,0 +1,13 @@
+.footer {
+  position: relative;
+  padding: 64px;
+  background: hsl(0deg, 0%, 5%);
+  /* background-color: red; */
+  color: white;
+  text-align: center;
+}
+
+.a {
+  color: white;
+}
+
